@@ -45,6 +45,7 @@ This project focuses on building a strong understanding of **FSM design**, **seq
 | PED | Pedestrian crossing phase |
 
 Only **one state is active at a time**, ensuring deterministic and safe traffic behavior.
+<img width="1536" height="1024" alt="state_diagram" src="https://github.com/user-attachments/assets/c0a8129c-fecd-4a7b-a699-d2aeb1adffc3" />
 
 ---
 
@@ -82,6 +83,8 @@ The FSM is implemented using a structured RTL approach consisting of three major
    - Enables time-controlled transitions
 
 This separation improves clarity, maintainability, and scalability of the design.
+<img width="1536" height="1024" alt="state_table" src="https://github.com/user-attachments/assets/e9ce85ce-25e6-46ea-93b3-a2faed7195c6" />
+
 
 ---
 
@@ -130,3 +133,4 @@ This approach avoids hard-coded delays and improves design flexibility.
 
 ## Author
 **Avinash Tanti**
+
